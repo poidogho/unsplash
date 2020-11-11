@@ -12,3 +12,7 @@ The app fetches images from unsplash
 The app can do a search for various images
 The app has the opportunity to route properly and display further information about an image
 There is a test to check that the app is able to render
+
+### to run app
+
+cd into FSUnsplash-main and run yarn start
